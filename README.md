@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Data Science in Medicine
 - 💞️ I’m looking to collaborate on edical projects requiring the use of AI, especially in the field of psychology and/or psychiatry
 - 📫 romenskaya17@gmail.com
-- 😄 Pronouns: 
+- 😄 Pronouns: -
 - ⚡ Fun fact: used to be called 'Terminator' in childhood
 
 <!---
